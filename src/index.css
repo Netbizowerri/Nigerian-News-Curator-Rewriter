@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-[#F3F4F6] antialiased;
+  }
+}
+
+@layer utilities {
+  .nigerian-gradient {
+    background: linear-gradient(135deg, #008751 0%, #007043 100%);
+  }
+}

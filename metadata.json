@@ -1,0 +1,5 @@
+{
+  "name": "NewsrAIt",
+  "description": "Daily automated agent that fetches, cleans, and emails Nigerian Politics news.",
+  "requestFramePermissions": []
+}
